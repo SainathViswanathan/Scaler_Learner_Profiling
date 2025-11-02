@@ -1,5 +1,12 @@
 # Scaler — Learner Profiling (Clustering Case Study)
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
+![Machine Learning](https://img.shields.io/badge/Type-Unsupervised%20Learning-green)
+![Clustering](https://img.shields.io/badge/Focus-Clustering%20%7C%20EDA-yellow)
+![Libraries](https://img.shields.io/badge/Libraries-pandas%2C%20scikit--learn%2C%20seaborn-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
 ## 🚀 About Scaler
 Scaler is a cutting-edge online tech university (tech-versity) designed to upskill software and data science professionals.  
 It offers rigorous, live-learning programs delivered by seasoned industry experts, focusing on modern curricula aligned with current technological trends.  
