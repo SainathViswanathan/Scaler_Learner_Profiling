@@ -3,7 +3,9 @@
 # ======================
 
 # Ignore project-specific folders (local data or references)
+Extra/
 Extras/
+Reference/
 References/
 
 # Ignore notebook checkpoints and VS Code configs
