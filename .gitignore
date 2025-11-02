@@ -1,0 +1,10 @@
+# Ignore entire folders you don't want on GitHub
+Extras/
+References/
+
+# Optional common ignores
+*.log
+*.tmp
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
